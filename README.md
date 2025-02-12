@@ -79,6 +79,10 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wazuh-Icon.png" alt="My Banner" width="60" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Splunk-Icon.png" alt="My Banner" width="65" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Elastic-Icon.png" alt="My Banner" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Osquery-Icon.png" alt="My Banner" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Ness-Icon.png" alt="My Banner" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Nmap-Icon.png" alt="My Banner" width="45" align="center">
+
 
 
 
@@ -90,21 +94,7 @@
 
 ---
 
-
-## 🚀 **Projects**
-
-### [Phishing Email Analysis](https://github.com/yourusername/phishing-analysis)
-- Investigated phishing emails using tools like VirusTotal and URL Scan.
-- Techniques: Email header analysis, domain reputation checks.
-
-### [Network Forensics with Wireshark](https://github.com/yourusername/network-forensics)
-- Analyzed network traffic to detect malicious activities.
-- Tools: Wireshark, Tcpdump.
-
----
-
 ## 🎥 **My Friend**
-
 
 
 ---
