@@ -7,7 +7,7 @@
   # 👨‍💻 Whoami 
   
   <div align="center">
-    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="300">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="350">
   </div> 
   
   <div align="center">
@@ -19,7 +19,7 @@
 
 ##  💡 **Professional Experience**
 
-<pre width=100%>
+<pre width="100%">
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" align="left">
 <b>Cyber Security Intern</b>  
 <b>CyberTalents</b> | 07/2022 - 09/2022  
