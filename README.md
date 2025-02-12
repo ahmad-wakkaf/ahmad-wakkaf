@@ -19,7 +19,7 @@
 
 ##  💡 **Professional Experience**
 
-<pre>
+<pre width=100%>
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" align="left">
 <b>Cyber Security Intern</b>  
 <b>CyberTalents</b> | 07/2022 - 09/2022  
