@@ -11,7 +11,7 @@
   </div> 
   
   <div align="center">
- I am a 2nd-year Graduate Student at <b>ITMO University</b>, pursuing a Master's in <b>Information Security</b>, who is passionate about <b>Digital Forensics 🕵️‍♂️</b>, <b>SIEM Tools 🛡️</b>, and <b>Open Source :octocat:</b>. I love to learn and contribute to the cybersecurity community in any and every possible way. My goal is to build robust defenses against cyber threats and make the digital world a safer place. 🔒
+ I am a 1st-year Student at <b>ITMO University</b>, pursuing a Master's in <b>Information Security</b>, who is passionate about <b>Digital Forensics 🕵️‍♂️</b>, <b>SIEM Tools 🛡️</b>, and <b>Open Source :octocat:</b>. I love to learn and contribute to the cybersecurity community in any and every possible way. My goal is to build robust defenses against cyber threats and make the digital world a safer place. 🔒
   </div>
 
 
