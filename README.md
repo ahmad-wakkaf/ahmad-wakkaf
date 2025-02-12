@@ -62,7 +62,12 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="40">
 
 ### **Networking**
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/TCP-Icon.png" alt="My Banner" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="My Banner" width="50" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/TCP-Icon.png" alt="My Banner" width="100" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wireshar-Icon.png" width="60" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/GNS3-Icon.png" alt="My Banner" width="70" align="center">
+
+	
 
 
 	
@@ -145,10 +150,7 @@ Here are some of the tools I work with in the field of information security:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 
-![TCP](https://img.shields.io/badge/TCP-Protocol-blue)
-![UDP](https://img.shields.io/badge/UDP-Protocol-green)
-![HTTP](https://img.shields.io/badge/HTTP-Protocol-red)
-![HTTPS](https://img.shields.io/badge/HTTPS-Protocol-brightgreen)
+
 
 
 <div align="center">
