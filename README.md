@@ -14,7 +14,7 @@
 
 ##  💡 **Professional Experience**
 <pre>
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" align="left">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="350" align="left">
 <b>Cyber Security Intern</b>  
 <b>CyberTalents</b> | 07/2022 - 09/2022 
   
@@ -29,7 +29,7 @@
 </pre>
 
 <pre>
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="300" align="left">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="350" align="left">
   <b>IT Network Technician</b> 
   <b>ACM ICPC-Syrian Collegiate Programming Contest</b> | 07/2019 - 06/2020 
   
@@ -43,18 +43,18 @@
 
 </pre>
 
----
+
 ## 📚 **Certifications**
-<pre>
- <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="300" align="left">
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="300" align="left">
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="300" align="left">
-</pre>
+<div display="inline" align="center">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE2.png" alt="My Banner" width="350">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="350">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE3.png" alt="My Banner" width="350">
+</div>
+<!--
 ![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Fortinet NSE 2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Fortinet NSE 3](https://img.shields.io/badge/Fortinet_NSE_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-
----
+-->
 
 
 
