@@ -67,6 +67,17 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wireshar-Icon.png" width="60" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/GNS3-Icon.png" alt="My Banner" width="70" align="center">
 
+### **Programming & Scripting**
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="My Banner" width="60" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="60" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="My Banner" width="60" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="My Banner" width="70" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="My Banner" width="70" align="center">
+
+
+	
+
 	
 
 
@@ -78,9 +89,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF6C37?style=for-the-badge&logo=mitre&logoColor=white)
 
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 
 
