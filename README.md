@@ -25,7 +25,6 @@
 - Implemented <b>data encryption techniques</b> to secure sensitive information.  
   
 - Performed <b>network security</b> audits and <b>digital forensics</b> investigations.
-
 </pre>
 
 <pre>
@@ -40,20 +39,28 @@
   - Troubleshot hardware and software issues, recommending upgrades and configurations. 
   
   - Analyzed and diagnosed wired and wireless local area networks. 
-
 </pre>
 
 
 ## 📚 **Certifications**
-<div display="inline" align="center">
+<div align="center">
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE1.png" alt="My Banner" width="350">
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE2.png" alt="My Banner" width="350">
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE3.png" alt="My Banner" width="350">
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="350">
-  
+</div>
 
+
+<div align="center">
+	
 ## 🛠️ **Skills & Tools**
-
+	
+### **Operating Systems**
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="40">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="My Banner" width="40">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="My Banner" width="40">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="My Banner" width="40">
+	
 ### **Cybersecurity Tools**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-FF6C37?style=for-the-badge&logo=wazuh&logoColor=white)
@@ -69,6 +76,10 @@
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6C37?style=for-the-badge&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-004088?style=for-the-badge&logo=dns&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-0077B5?style=for-the-badge&logo=openvpn&logoColor=white)
+
+</div>
+
+
 
 ---
 
