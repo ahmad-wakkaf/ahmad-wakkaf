@@ -1,11 +1,9 @@
-
-  <!-- Banner Section -->
+<!-- Banner Section -->
   <div align="center">
     <img src="https://media.licdn.com/dms/image/v2/D4D16AQHUom5VIkt5sg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716036089856?e=1744848000&v=beta&t=c7JKVCnsxHuQBIqkIi5xsnh__Sa0rslK7Q3fhAfUgGU" alt="Ahmad Wakkaf - Cybersecurity Analyst" width="100%">
   </div>
   
   # 👨‍💻 Whoami 
-  
   <div align="center">
     <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="350">
   </div> 
@@ -14,11 +12,7 @@
  I am a 1st-year Student at <b>ITMO University</b>, pursuing a Master's in <b>Information Security</b>, who is passionate about <b>Digital Forensics 🕵️‍♂️</b>, <b>SIEM Tools 🛡️</b>, and <b>Open Source :octocat:</b>. I love to learn and contribute to the cybersecurity community in any and every possible way. My goal is to build robust defenses against cyber threats and make the digital world a safer place. 🔒
   </div>
 
-
-
-
 ##  💡 **Professional Experience**
-
 <pre>
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" align="left">
 <b>Cyber Security Intern</b>  
@@ -50,8 +44,17 @@
 </pre>
 
 ---
+## 📚 **Certifications**
+<pre>
+ <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="300" align="left">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="300" align="left">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="300" align="left">
+</pre>
+![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Fortinet NSE 2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Fortinet NSE 3](https://img.shields.io/badge/Fortinet_NSE_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
-
+---
 
 
 
@@ -89,14 +92,6 @@
 
 ---
 
-## 🔍 **What I Do**
-
-- **Threat Hunting**: Analyzing SIEM logs and security events to detect and respond to threats.
-- **Vulnerability Assessment**: Identifying and mitigating vulnerabilities using tools like Nessus and OpenVAS.
-- **Network Forensics**: Investigating malicious activities using Wireshark and Tcpdump.
-- **Threat Intelligence**: Leveraging MITRE ATT&CK and MISP to identify APT TTPs.
-
----
 
 ## 🚀 **Projects**
 
@@ -109,23 +104,6 @@
 - Tools: Wireshark, Tcpdump.
 
 ---
-
-## 📚 **Certifications**
-
-![Google IT Support Professional](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Fortinet NSE 2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Fortinet NSE 3](https://img.shields.io/badge/Fortinet_NSE_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-
----
-
-## 🎓 **Education**
-
-- **Master’s Degree, Information Security** - ITMO University (2024 - 2026)
-- **Bachelor’s Degree, Computer Systems and Networks Engineering** - Tishreen University (2015 - 2021)
-
----
-
 
 ## 🎥 **My Friend**
 
@@ -172,4 +150,12 @@ Here are some of the tools I work with in the field of information security:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
+</div>
 
