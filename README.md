@@ -18,7 +18,7 @@
 
 
 
-## 🔍 **Professional Experience**
+##  💡 **Professional Experience**
 
 ### **Cyber Security Intern**  
 **CyberTalents** | 07/2022 - 09/2022  
@@ -27,7 +27,7 @@
 - Performed **network security** audits and **digital forensics** investigations.
   
  
-    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" border="3px">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300">
   
 
 ### **IT Network Technician**  
