@@ -82,6 +82,13 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Osquery-Icon.png" alt="My Banner" width="80" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Ness-Icon.png" alt="My Banner" width="80" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Nmap-Icon.png" alt="My Banner" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Volatility-Icon.png" alt="My Banner" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Autopsy_Icon.png" alt="My Banner" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Burpsuite-Icon.png" alt="My Banner" width="80" align="center">
+
+
+
+
 
 
 
