@@ -58,20 +58,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🛠️ **Skills & Tools**
 
 ### **Cybersecurity Tools**
