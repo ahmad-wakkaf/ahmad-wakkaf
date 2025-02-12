@@ -24,7 +24,11 @@
 **CyberTalents** | 07/2022 - 09/2022  
 - Conducted **web application security** assessments to identify vulnerabilities.  
 - Implemented **data encryption techniques** to secure sensitive information.  
-- Performed **network security** audits and **digital forensics** investigations.  
+- Performed **network security** audits and **digital forensics** investigations.
+  
+ 
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" border="3px">
+  
 
 ### **IT Network Technician**  
 **ACM ICPC-Syrian Collegiate Programming Contest** | 07/2019 - 06/2020  
@@ -32,6 +36,9 @@
 - Troubleshot hardware and software issues, recommending upgrades and configurations.  
 - Analyzed and diagnosed wired and wireless local area networks, repairing failures as needed.  
 
+ <div align="center">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="400">
+  </div> 
 ---
 
 
