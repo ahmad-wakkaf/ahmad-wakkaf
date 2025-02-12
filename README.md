@@ -23,9 +23,9 @@
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" align="left">
 <b>Cyber Security Intern</b>  
 <b>CyberTalents</b> | 07/2022 - 09/2022  
-- Conducted **web application security** assessments to identify vulnerabilities.  
-- Implemented **data encryption techniques** to secure sensitive information.  
-- Performed **network security** audits and **digital forensics** investigations.
+- Conducted <b>web application security</b> assessments to identify vulnerabilities.  
+- Implemented <b>data encryption techniques</b> to secure sensitive information.  
+- Performed <b>network security</b> audits and <b>digital forensics</b> investigations.
 
 </pre>
 
