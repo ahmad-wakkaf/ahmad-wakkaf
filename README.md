@@ -7,7 +7,7 @@
   # 👨‍💻 Whoami 
   
   <div align="center">
-    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="400">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="300">
   </div> 
   
   <div align="center">
