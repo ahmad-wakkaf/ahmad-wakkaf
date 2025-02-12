@@ -26,12 +26,6 @@
 - Implemented **data encryption techniques** to secure sensitive information.  
 - Performed **network security** audits and **digital forensics** investigations.  
 
-### **IT Support Specialist**  
-**Masar Center Education** | 01/2022 - 08/2022  
-- Installed, set up, and maintained hardware and software for new and existing users.  
-- Tracked and resolved complex software and hardware issues to meet business needs.  
-- Monitored antivirus status, storage space, and network activity to optimize system performance.  
-
 ### **IT Network Technician**  
 **ACM ICPC-Syrian Collegiate Programming Contest** | 07/2019 - 06/2020  
 - Provided technical assistance and application support to ensure a reliable workplace.  
