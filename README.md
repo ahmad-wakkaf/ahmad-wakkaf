@@ -55,11 +55,16 @@
 	
 ## 🛠️ **Skills & Tools**
 	
-### **Operating Systems**
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="40">
+### **Operating Systems**  
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="My Banner" width="40">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="My Banner" width="40">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="My Banner" width="40">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="40">
+
+### **Networking**
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/TCP-Icon.png" alt="My Banner" width="100">
+
+
 	
 ### **Cybersecurity Tools**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
@@ -72,10 +77,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Networking**
-![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6C37?style=for-the-badge&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-004088?style=for-the-badge&logo=dns&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-0077B5?style=for-the-badge&logo=openvpn&logoColor=white)
+
 
 </div>
 
@@ -141,6 +143,12 @@ Here are some of the tools I work with in the field of information security:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+
+![TCP](https://img.shields.io/badge/TCP-Protocol-blue)
+![UDP](https://img.shields.io/badge/UDP-Protocol-green)
+![HTTP](https://img.shields.io/badge/HTTP-Protocol-red)
+![HTTPS](https://img.shields.io/badge/HTTPS-Protocol-brightgreen)
 
 
 <div align="center">
