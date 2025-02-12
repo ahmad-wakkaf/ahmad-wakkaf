@@ -56,25 +56,25 @@
 ## 🛠️ **Skills & Tools**
 	
 ### **Operating Systems**  
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="My Banner" width="60">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="My Banner" width="60">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="My Banner" width="60">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="60">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="My Banner" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="My Banner" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="My Banner" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="45">
 
 ### **Networking**
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="My Banner" width="60" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/TCP-Icon.png" alt="My Banner" width="100" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wireshar-Icon.png" width="60" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/GNS3-Icon.png" alt="My Banner" width="60" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="My Banner" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/TCP-Icon.png" alt="My Banner" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wireshar-Icon.png" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/GNS3-Icon.png" alt="My Banner" width="45" align="center">
 
 ### **Programming & Scripting**
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="My Banner" width="60" align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="60" align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="My Banner" width="60" align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60" align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="My Banner" width="60" align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="My Banner" width="60" align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="My Banner" width="60" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="My Banner" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="My Banner" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="My Banner" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="My Banner" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="My Banner" width="45" align="center">
 
 
 
