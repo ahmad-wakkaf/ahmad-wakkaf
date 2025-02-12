@@ -22,20 +22,30 @@
 <pre>
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="300" align="left">
 <b>Cyber Security Intern</b>  
-<b>CyberTalents</b> | 07/2022 - 09/2022  
+<b>CyberTalents</b> | 07/2022 - 09/2022 
+  
+<b>Responsibilities:</b>
+  
 - Conducted <b>web application security</b> assessments to identify vulnerabilities.  
+  
 - Implemented <b>data encryption techniques</b> to secure sensitive information.  
+  
 - Performed <b>network security</b> audits and <b>digital forensics</b> investigations.
 
 </pre>
 
 <pre>
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="300" align="left">
-### **IT Network Technician**  
-**ACM ICPC-Syrian Collegiate Programming Contest** | 07/2019 - 06/2020  
-- Provided technical assistance and application support to ensure a reliable workplace.  
-- Troubleshot hardware and software issues, recommending upgrades and configurations.  
-- Analyzed and diagnosed wired and wireless local area networks. 
+  <b>IT Network Technician</b> 
+  <b>ACM ICPC-Syrian Collegiate Programming Contest</b> | 07/2019 - 06/2020 
+  
+  <b>Responsibilities:</b>
+  
+  - Provided technical assistance and application support to ensure a reliable workplace.
+  
+  - Troubleshot hardware and software issues, recommending upgrades and configurations. 
+  
+  - Analyzed and diagnosed wired and wireless local area networks. 
 
 </pre>
 
