@@ -36,11 +36,11 @@
   
   <b>Responsibilities:</b>
   
-  - Provided technical assistance and application support.
+- Provided technical assistance and application support.
 
-  - Troubleshot hardware and software issues. 
+- Troubleshot hardware and software issues. 
 
-  - Analyzed and diagnosed wired and wireless local area networks. 
+- Analyzed and diagnosed wired and wireless local area networks. 
 </pre>
 
 
