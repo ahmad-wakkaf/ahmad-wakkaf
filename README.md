@@ -88,6 +88,7 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Mitre-Icon.png" alt="My Banner" width="80" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/MISP-Icon.png" alt="My Banner" width="60" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Snort-Icon.png" alt="My Banner" width="60" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Zeek-Icon.png" alt="My Banner" width="60" align="center">
 
 
 
