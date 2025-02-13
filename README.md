@@ -16,9 +16,8 @@
 
 ##  💡 **Professional Experience**
 <pre>
-<pre>
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="350" align="left">
-<b>Cyber Security Intern</b>  
+<b>Cyber Security Intern</b>
 <b>CyberTalents</b> | 07/2022 - 09/2022 
   
 <b>Responsibilities:</b>
@@ -43,8 +42,6 @@
 
 - Analyzed and diagnosed wired and wireless local area networks. 
 </pre>
-</pre>
-
 
 ## 📚 **Certifications**
 <div align="center">
