@@ -16,6 +16,7 @@
 
 ##  💡 **Professional Experience**
 <pre>
+<pre>
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="350" align="left">
 <b>Cyber Security Intern</b>  
 <b>CyberTalents</b> | 07/2022 - 09/2022 
@@ -41,6 +42,7 @@
 - Troubleshot hardware and software issues. 
 
 - Analyzed and diagnosed wired and wireless local area networks. 
+</pre>
 </pre>
 
 
