@@ -31,10 +31,10 @@
 
 <pre>
     <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="345" align="left">
-  <b>IT Network Technician</b> 
-  <b>ACM ICPC-Syrian Collegiate Programming Contest</b> | 07/2019 - 06/2020 
+<b>IT Network Technician</b> 
+<b>ACM ICPC-Syrian Collegiate Programming Contest</b> | 07/2019 - 06/2020 
   
-  <b>Responsibilities:</b>
+<b>Responsibilities:</b>
   
 - Provided technical assistance and application support.
 
