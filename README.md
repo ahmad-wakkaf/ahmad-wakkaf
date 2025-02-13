@@ -51,8 +51,7 @@
 </div>
 
 
-<div align="center">
-	
+<div align="center">	
 ## 🛠️ **Skills & Tools**
 	
 ### **Operating Systems**  
@@ -93,8 +92,6 @@
 
 
 
----
-
 ## 🎥 **My Friend**
 
 
@@ -107,3 +104,7 @@ Feel free to reach out if you'd like to collaborate or discuss cybersecurity! �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-wakkaf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadwakkaf@yandex.com)
 
+
+![CTFtime](https://img.shields.io/badge/CTFtime-Rank%20123-blue)
+![CTFs Participated](https://img.shields.io/badge/CTFs%20Participated-15-green)
+![Challenges Solved](https://img.shields.io/badge/Challenges%20Solved-200-orange)
