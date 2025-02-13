@@ -29,7 +29,7 @@
 - Performed <b>network security</b> audits and <b>forensics</b> investigations.
 </pre>
 
-<pre>
+<pre width="100%">
   <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="345" align="left">
   <b>IT Network Technician</b> 
   <b>ACM ICPC-Syrian Collegiate Programming Contest</b> | 07/2019 - 06/2020 
