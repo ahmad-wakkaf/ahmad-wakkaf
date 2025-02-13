@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Banner Section -->
   <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHUom5VIkt5sg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716036089856?e=1744848000&v=beta&t=c7JKVCnsxHuQBIqkIi5xsnh__Sa0rslK7Q3fhAfUgGU" alt="Ahmad Wakkaf - Cybersecurity Analyst" width="100%">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/banner.png" alt="Ahmad Wakkaf - Cybersecurity Analyst" width="100%">
   </div>
 
   
