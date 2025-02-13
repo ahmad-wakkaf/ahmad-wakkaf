@@ -1,10 +1,12 @@
+<div align="center">
 <!-- Banner Section -->
   <div align="center">
     <img src="https://media.licdn.com/dms/image/v2/D4D16AQHUom5VIkt5sg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716036089856?e=1744848000&v=beta&t=c7JKVCnsxHuQBIqkIi5xsnh__Sa0rslK7Q3fhAfUgGU" alt="Ahmad Wakkaf - Cybersecurity Analyst" width="100%">
   </div>
+
   
-  # 👨‍💻 Whoami 
   <div align="center">
+  <h2> 👨‍💻 Whoami </h2> 
     <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="350">
   </div> 
   
@@ -51,7 +53,7 @@
 </div>
 
 
-<div align="center">	
+	
 ## 🛠️ **Skills & Tools**
 	
 ### **Operating Systems**  
@@ -88,23 +90,21 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/MISP-Icon.png" alt="My Banner" width="60" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Snort-Icon.png" alt="My Banner" width="60" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Zeek-Icon.png" alt="My Banner" width="60" align="center">
-</div>
 
-
-
-## 🎥 **My Friend**
-
-
----
 
 ## 📫 **Let's Connect!**
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. 😄
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+reach+out!" alt="Typing SVG" /></a>
 
-Feel free to reach out if you'd like to collaborate or discuss cybersecurity! 😄
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="30" height="30">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="30" height="30">
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" width="30" height="30">
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-wakkaf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadwakkaf@yandex.com)
+</div>
 
-
-![CTFtime](https://img.shields.io/badge/CTFtime-Rank%20123-blue)
-![CTFs Participated](https://img.shields.io/badge/CTFs%20Participated-15-green)
-![Challenges Solved](https://img.shields.io/badge/Challenges%20Solved-200-orange)
