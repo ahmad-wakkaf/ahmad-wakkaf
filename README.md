@@ -22,11 +22,11 @@
   
 <b>Responsibilities:</b>
   
-- Conducted <b>web application security</b> assessments to identify vulnerabilities.  
+- Conducted <b>web application security</b> assessments. 
   
-- Implemented <b>data encryption techniques</b> to secure sensitive information.  
+- Implemented <b>data encryption techniques</b>.
   
-- Performed <b>network security</b> audits and <b>digital forensics</b> investigations.
+- Performed <b>network security</b> audits and <b>forensics</b> investigations.
 </pre>
 
 <pre>
@@ -36,9 +36,9 @@
   
   <b>Responsibilities:</b>
   
-  - Provided technical assistance and application support to ensure a reliable workplace.
+  - Provided technical assistance and application support.
   
-  - Troubleshot hardware and software issues, recommending upgrades and configurations. 
+  - Troubleshot hardware and software issues. 
   
   - Analyzed and diagnosed wired and wireless local area networks. 
 </pre>
