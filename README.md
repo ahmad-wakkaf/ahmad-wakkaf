@@ -96,10 +96,10 @@
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. 😄
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+reach+out+at+anytime+!" alt="Typing SVG" /></a>
 
-  <a href="https://linkedin.com/in/your-profile">
+ <span style="text-decoration: none;"><a href="https://linkedin.com/in/your-profile"></span>
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="30" height="30">
   </a>
-  <a href="mailto:your-email@example.com">
+  <span style="text-decoration: none;"><a href="mailto:your-email@example.com"></span>
     <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="30" height="30">
   </a>
   <a href="https://github.com/your-username">
@@ -107,4 +107,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   </a>
 
 </div>
-
+ <span style="text-decoration: none;">
