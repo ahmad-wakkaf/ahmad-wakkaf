@@ -80,7 +80,7 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Splunk-Icon.png" alt="Splunk Icon" width="65" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Elastic-Icon.png" alt="Elastic Icon" width="80" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Osquery-Icon.png" alt="OsqueryIcon" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Ness-Icon.png" alt="Nessus Icon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Nessus-Icon.png" alt="Nessus Icon" width="80" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Nmap-Icon.png" alt="Nmap Icon" width="45" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Volatility-Icon.png" alt="Volatility Icon" width="45" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Autopsy_Icon.png" alt="Autopsy Icon" width="80" align="center">
