@@ -90,7 +90,6 @@
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Snort-Icon.png" alt="Snort Icon" width="60" align="center">
 <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Zeek-Icon.png" alt="Zeek Icon" width="60" align="center">
 
-
 ## 📫 **Let's Connect!**
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. 😄
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+reach+out+at+anytime+!" alt="Typing SVG" /></a>
