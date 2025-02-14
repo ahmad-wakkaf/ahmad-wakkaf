@@ -7,7 +7,7 @@
   
   <div align="center">
   <h2> 👨‍💻 Whoami </h2> 
-    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/soc-analyst.gif" alt="My Banner" width="350">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/soc-analyst.gif" alt="SOC Analyst" width="350">
   </div> 
   
   <div align="center">
@@ -16,7 +16,7 @@
 
 ##  💡 **Professional Experience**
 <pre>
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Intern.png" alt="My Banner" width="350" align="left">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Cert-Intern.png" alt="Internship Certificate" width="350" align="left">
 <b>Cyber Security Intern</b>
 <b>CyberTalents</b> | 07/2022 - 09/2022 
   
@@ -30,7 +30,7 @@
 </pre>
 
 <pre>
-    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Network.png" alt="My Banner" width="345" align="left">
+    <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Cert-Network.png" alt="ICMP Certificate" width="350" align="left">
 <b>IT Network Technician</b> 
 <b>ACM ICPC-Syrian Collegiate Programming Contest</b> | 07/2019 - 06/2020 
   
@@ -45,10 +45,10 @@
 
 ## 📚 **Certifications**
 <div align="center">
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE1.png" alt="My Banner" width="350">
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE2.png" alt="My Banner" width="350">
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-NSE3.png" alt="My Banner" width="350">
-  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Cert-Google.png" alt="My Banner" width="350">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Cert-NSE1.png" alt="NSE1 Certificate" width="350">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Cert-NSE2.png" alt="NSE2 Certificate" width="350">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Cert-NSE3.png" alt="NSE3 Certificate" width="350">
+  <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Cert-Google.png" alt="Google Certificate" width="350">
 </div>
 
 
@@ -56,16 +56,16 @@
 ## 🛠️ **Skills & Tools**
 	
 ### **Operating Systems**  
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="My Banner" width="45">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="My Banner" width="45">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="My Banner" width="45">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="My Banner" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows Icon" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux Icon" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu Icon" width="45">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Icon" width="45">
 
 ### **Networking**
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="My Banner" width="45" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/TCP-Icon.png" alt="My Banner" width="45" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wireshar-Icon.png" width="45" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/GNS3-Icon.png" alt="My Banner" width="45" align="center">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP Icon" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/TCP-Icon.png" alt="TCP Icon" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Wireshark-Icon.png" alt="Wireshark Icon" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/GNS3-Icon.png" alt="GNS3 Icon" width="45" align="center">
 
 ### **Programming & Scripting**
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="My Banner" width="45" align="center">
@@ -76,19 +76,19 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="My Banner" width="45" align="center">
 
 ### **Cybersecurity Tools**
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Wazuh-Icon.png" alt="My Banner" width="60" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Splunk-Icon.png" alt="My Banner" width="65" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Elastic-Icon.png" alt="My Banner" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Osquery-Icon.png" alt="My Banner" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Ness-Icon.png" alt="My Banner" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Nmap-Icon.png" alt="My Banner" width="45" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Volatility-Icon.png" alt="My Banner" width="45" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Autopsy_Icon.png" alt="My Banner" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Burpsuite-Icon.png" alt="My Banner" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Mitre-Icon.png" alt="My Banner" width="80" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/MISP-Icon.png" alt="My Banner" width="60" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Snort-Icon.png" alt="My Banner" width="60" align="center">
-<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/Zeek-Icon.png" alt="My Banner" width="60" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Wazuh-Icon.png" alt="Wazuh Icon" width="60" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Splunk-Icon.png" alt="Splunk Icon" width="65" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Elastic-Icon.png" alt="Elastic Icon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Osquery-Icon.png" alt="OsqueryIcon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Ness-Icon.png" alt="Nessus Icon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Nmap-Icon.png" alt="Nmap Icon" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Volatility-Icon.png" alt="Volatility Icon" width="45" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Autopsy_Icon.png" alt="Autopsy Icon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Burpsuite-Icon.png" alt="Burpsuite Icon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Mitre-Icon.png" alt="Mitre Icon" width="80" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/MISP-Icon.png" alt="MISP Icon" width="60" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Snort-Icon.png" alt="Snort Icon" width="60" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf/blob/main/images/Zeek-Icon.png" alt="Zeek Icon" width="60" align="center">
 
 
 ## 📫 **Let's Connect!**
