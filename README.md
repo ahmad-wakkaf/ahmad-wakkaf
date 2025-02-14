@@ -95,10 +95,10 @@
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. 😄
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+reach+out+at+anytime+!" alt="Typing SVG" /></a>
 
- <span style="text-decoration: none;"><a href="https://www.linkedin.com/in/ahmad-wakkaf"></span>
+  <a href="https://www.linkedin.com/in/ahmad-wakkaf">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="30" height="30">
   </a>
-  <span style="text-decoration: none;"><a href="mailto:ahmad.wakkaf1@gmail.com"></span>
+  <a href="mailto:ahmad.wakkaf1@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="30" height="30">
   </a>
   <a href="https://github.com/ahmad-wakkaf">
